@@ -1,4 +1,4 @@
-# MNIST-Model-Prediction
+# Small-MNIST-Model-Prediction
 
 ## This is a model predict what is the number of a handwritten digits.
 ### The Data called MNIST dataset and it has two versions.
